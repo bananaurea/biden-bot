@@ -1,0 +1,25 @@
+{
+  "name": "welcome-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^17.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananaurea/discord-welcome-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bananaurea/discord-welcome-bot/issues"
+  },
+  "homepage": "https://github.com/bananaurea/discord-welcome-bot#readme"
+}
